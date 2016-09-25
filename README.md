@@ -28,6 +28,9 @@ To run with custom parameters you should run the following commands:
 
 
 `lein repl`
+
+And
+
 `(-main [100 0.2 0.8 10])`
 
 
@@ -36,5 +39,7 @@ The first parameter is the size of population, the second is the mutation rate, 
 ## Implementation by
 
 Luciano P. Sabenca (lucianosabenca at gmail.com) - https://linkedin.com/in/luciano-sabença-9162b149 
+
+It was an done as a academic undergraduate assignment at University of Campinas (UNICAMP) 
 
 
